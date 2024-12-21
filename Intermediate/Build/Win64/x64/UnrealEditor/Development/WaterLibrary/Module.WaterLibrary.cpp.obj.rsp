@@ -1,11 +1,13 @@
-"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp"
-/FI"F:\github\DansProjects\GesTest 5.3\Intermediate\Build\Win64\x64\GesTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
-/FI"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Definitions.WaterLibrary.h"
-/Yu"F:\github\DansProjects\GesTest 5.3\Intermediate\Build\Win64\x64\GesTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
-/Fp"F:\github\DansProjects\GesTest 5.3\Intermediate\Build\Win64\x64\GesTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.obj"
-/sourceDependencies "F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.dep.json"
-@"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\WaterLibrary.Shared.rsp"
+"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp"
+/FI"C:\Dev\Unreal\Build55\Intermediate\Build\Win64\x64\Build55Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Definitions.WaterLibrary.h"
+/Yu"C:\Dev\Unreal\Build55\Intermediate\Build\Win64\x64\Build55Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Dev\Unreal\Build55\Intermediate\Build\Win64\x64\Build55Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.obj"
+/experimental:log "C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.sarif"
+/sourceDependencies "C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.dep.json"
+@"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\WaterLibrary.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi
@@ -24,6 +26,7 @@
 /D_WINDLL
 /D_DISABLE_EXTENDED_ALIGNED_STORAGE
 /Ob2
+/d2ExtendedWarningInfo
 /Ox
 /Ot
 /GF

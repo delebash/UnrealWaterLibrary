@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\unreal\\build55\\plugins\\unrealwaterlibrary\\source\\waterlibrary\\private\\waterlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\unreal\\build55\\intermediate\\build\\win64\\x64\\build55editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\dev\\unreal\\build55\\plugins\\unrealwaterlibrary\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\waterlibrary\\definitions.waterlibrary.h",
+            "c:\\dev\\unreal\\build55\\plugins\\unrealwaterlibrary\\source\\waterlibrary\\public\\waterlibrary.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

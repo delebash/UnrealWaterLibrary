@@ -11,6 +11,7 @@
 /DELAY:UNLOAD
 /DLL
 /PDBALTPATH:%_PDB%
+/d2:-ExtendedWarningInfo
 /OPT:NOREF
 /OPT:NOICF
 /INCREMENTAL:NO
@@ -20,9 +21,9 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -34,9 +35,12 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"F:\github\DansProjects\GesTest 5.3\Intermediate\Build\Win64\x64\GesTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
-"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.obj"
-"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Default.rc2.res"
+/NOIMPLIB
+"C:\Dev\Unreal\Build55\Intermediate\Build\Win64\x64\Build55Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Module.WaterLibrary.cpp.obj"
+"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\WaterLibrary.cpp.obj"
+"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\WaterLibraryBP.cpp.obj"
+"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -68,7 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Binaries\Win64\UnrealEditor-WaterLibrary.dll"
-/IMPLIB:"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Intermediate\Build\Win64\x64\UnrealEditor\Development\WaterLibrary\UnrealEditor-WaterLibrary.sup.lib"
-/PDB:"F:\github\DansProjects\GesTest 5.3\Plugins\WaterLibrary\Binaries\Win64\UnrealEditor-WaterLibrary.pdb"
+/OUT:"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Binaries\Win64\UnrealEditor-WaterLibrary.dll"
+/PDB:"C:\Dev\Unreal\Build55\Plugins\UnrealWaterLibrary\Binaries\Win64\UnrealEditor-WaterLibrary.pdb"
 /ignore:4078
